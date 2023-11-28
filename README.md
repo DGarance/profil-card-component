@@ -30,7 +30,7 @@ Users should be able to:
 
 - Solution URL:
   [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/resultsummarycomponent-htlmcss-and-js-CHyB__6VDX)
-- Live Site URL: [Github Live](https://dgarance.github.io/results-summary-component-challenge/)
+- Live Site URL: [Github Live](https://dgarance.github.io/profil-card-component/)
 
 ## My process
 
