@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:
-  [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/resultsummarycomponent-htlmcss-and-js-CHyB__6VDX)
+  [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profilcard-component-htmlcss-oEAL7mhgRi)
 - Live Site URL: [Github Live](https://dgarance.github.io/profil-card-component/)
 
 ## My process
